@@ -6,6 +6,8 @@
 
 ## Overview
 
+Live Coding Notes : [ParkingLotSystemDesign](ParkingLotSystemDesign)
+
 You are provided with an existing codebase for a Parking Lot system. The goal of this assignment is to extend its functionality based on the requirements below. You are expected to clone the repository, understand the current design, and implement the requested features with clean, modular code.
 
 ---
